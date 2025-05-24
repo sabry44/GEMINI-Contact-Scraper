@@ -1,0 +1,5 @@
+{
+  "name": "AI Contact Extractor",
+  "description": "A web application that uses AI to extract contact details (emails, phone numbers) from pasted text. Simulates a contact scraping tool.",
+  "requestFramePermissions": []
+}
